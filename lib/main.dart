@@ -9,7 +9,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter WebView',
+      title: 'Flutter WebView Demo',
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
